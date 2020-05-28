@@ -1,9 +1,20 @@
 ## Wildfire Hackathon
 Project by: Jack Seagrist, Yash Gaur, Hunter Johnson
  
-## Problem
-### Motivation?
-### Challenges
+ 
+ #### Problem
+
+  Wildfires pose a significant risk to human life and society, causing an estimated loss of $60-280 billion dollars in 2016 alone in the US with dozens of fatalities each year (11).  Climate and weather directly influence wildfire risks and global warming is expected to further exacerbate fire damage towards natural and urban ecosystems (10).  Just in the past 5 years, 2015-2020, several unprecedented fires have occured in varying parts and ecosystems of California showcasing the needs for new ideas and tools.    
+
+#### Motivation
+
+  One vital aspect of fire loss prevention is evacuation procedures, in particular how fire and police authorities decide and implement effective yet necessary evacuations in the face of imminient danger.  Aggressive fires, jammed roads, and paniced evacuees can complicate well thought out evacuation procedures potentially having fatal results.  
+  Our project aims to create an easy to use, government facing, data based tool that assissts fire departments in real time evacuation scenarios.  Our tool utilizes live traffic and census demographic data to provide a blend of need to know data to decision makers in high stake situations.  High human and economic loss fires such as the Camp Fire in Paradise, CA serve as a motivation to help provide information for safe evacuation routes or areas to shelter to minimze wildifre loss.  
+
+#### Challenges
+
+  Creating a data based live platform has several challenges, most surrounding availability of useful data and its timely implementation.  However, clever integration of online softwares allows a variety of critical variables to be available simultaneously while constantly updating.  Data and technological approaches that fight natural disasters are still naiscent but are rapidly evolving, providing a promising future for our platform.  
+  
 -describe the initial machine learning journey/approach
 -getting a farsite/flammap model to work on a windows system
 

@@ -5,6 +5,9 @@ Project by: Jack Seagrist, Yash Gaur, Hunter Johnson
 Our goal is to provide an easy to use interface for fire prediction and evacuation management for fire and sheriff's departments built on open source technology.
 
 ### Motivation?
+One vital aspect of fire loss prevention is evacuation procedures, in particular how fire and police authorities decide and implement effective yet necessary evacuations in the face of imminent danger.  Aggressive fires, jammed roads, and panicked evacuees can complicate well thought out evacuation procedures potentially having fatal results.  
+  Our project aims to create an easy to use, government facing, data based tool that assists fire departments in real time evacuation scenarios.  Our tool utilizes live traffic and census demographic data to provide a blend of need to know data to decision makers in high stake situations.  High human and economic loss fires such as the Camp Fire in Paradise, CA serve as a motivation to help provide information for safe evacuation routes or areas to shelter to minimize wildfire loss.  
+
 ### Challenges
 -describe the initial machine learning journey/approach
 -getting a farsite/flammap model to work on a windows system
